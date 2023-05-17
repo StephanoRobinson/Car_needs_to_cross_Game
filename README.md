@@ -1,5 +1,5 @@
 # Car_needs_to_cross_Game
-Little game in python
+Game in python
 
 - use arrow to move
 - once you've crossed the road, you won
